@@ -1,5 +1,5 @@
 # Jackaroo-Java-Game
-# Jackaroo Card Game
+
 
 A strategic card game where players compete to move their marbles around the board using playing cards with special abilities.
 
