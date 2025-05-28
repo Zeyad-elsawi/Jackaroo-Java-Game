@@ -1,4 +1,5 @@
-![WhatsApp Image 2025-05-20 at 17 52 54_51bffec1](https://github.com/user-attachments/assets/8bc2b278-7f52-4284-9d0b-3f5d33f63db2)
+![image](https://github.com/user-attachments/assets/7b9bbfd5-8ef2-4351-8f80-b4997b1c9623)
+
 
 Gameplay :https://drive.google.com/file/d/1kq7HME4Ye3_b53lg4Mkp9lsJyLweU_MU/view?usp=sharing
 # Jackaroo-Java-Game
