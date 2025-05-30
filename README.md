@@ -128,13 +128,15 @@ Jackaroo is a multiplayer card game that combines strategy and luck. Players use
 ## Credits
 -German University in Cairo (CSEN401 Department)
 - Game Development: 
-Names(I will add later)
+Zeyad Ahmed Elsawi
+Mark Raymond Takla
+jonathan maged daksis
+Aly Ahmed ALy
 
 
-## License
 
-[Specify your license here]
 
 ## Contact
 
-[Your contact information or team details] 
+Mark:https://www.linkedin.com/in/mark-takla/
+Zeyad :https://www.linkedin.com/in/zeyad-elsawi-0a0063284/
